@@ -8,8 +8,7 @@ As fontes abaixo ajudaram a conferir as tecnologias usadas e a organizar a apres
 - [Arduino-ESP32: Bluetooth](https://docs.espressif.com/projects/arduino-esp32/en/latest/api/bluetooth.html) — documenta Bluetooth Classic Serial (SPP) nos chips compatíveis.
 - [ESP-IDF: RF Coexistence](https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-guides/coexist.html) — matriz de coexistência de Wi-Fi e Bluetooth; SoftAP conectado junto com Bluetooth Classic conectado é listado como suportado, com desempenho instável.
 - [ESP-IDF: Bluetooth Architecture Overview](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/bt-architecture/overview.html) — descreve os recursos Bluetooth por família de chip ESP32.
-- [GitHub Docs: Best practices for repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories) — recomenda apresentar claramente o propósito e facilitar a navegação pelo repositório.
-- [GitHub Docs: About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes) — explica o papel do README e o uso de links relativos dentro do repositório.
+
 
 ## Projetos públicos usados como inspiração de organização
 
