@@ -1,5 +1,11 @@
 # Montagem e uso
 
+## Esquema original
+
+![Esquema elétrico original do projeto](../images/diagramas/esquema-original.png)
+
+Esquema escolar do carrinho, fornecido pelo autor do projeto. O desenho identifica a ponte H como “L398M”; outros documentos a chamam de L298M ou mini L298N. Ele também inclui LEDs e diodos que não são controlados pelo firmware atual. A imagem é mantida como referência do projeto, sem tratá-la como um diagrama revisado de ligação.
+
 ## Ligações de controle
 
 O esquema escolar e o sketch Bluetooth enviado para o projeto usam os seguintes pinos:
@@ -15,7 +21,7 @@ O sketch identifica o motor A como direito e o motor B como esquerdo. Essa conve
 
 ## Componentes registrados
 
-A [lista de materiais](lista-de-materiais.md) reúne todos os itens dos documentos escolares. A ponte H aparece como L298M no esquema e como mini L298N na lista. A bateria indicada é Ni-MH de 6 V e 2700 mAh.
+A [lista de materiais](lista-de-materiais.md) reúne todos os itens dos documentos escolares. A bateria indicada é Ni-MH de 6 V e 2700 mAh.
 
 Os documentos fornecem os sinais de controle, mas não descrevem por completo a distribuição de alimentação entre bateria, driver e ESP32. Por isso, esta página registra a pinagem e os componentes sem inventar uma ligação de alimentação.
 
