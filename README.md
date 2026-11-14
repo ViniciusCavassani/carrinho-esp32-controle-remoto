@@ -70,7 +70,6 @@ Os documentos do projeto identificam a ponte H como L298M no esquema e mini L298
 - [Montagem e uso](docs/montagem.md)
 - [Autoria e créditos](docs/creditos.md)
 - [Referências consultadas](docs/referencias.md)
-- [Fotos da montagem](images/montagem/README.md)
 
 ## Autoria
 
