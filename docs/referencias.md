@@ -12,10 +12,8 @@ As fontes abaixo ajudaram a conferir as tecnologias usadas e a organizar a apres
 
 ## Projetos públicos usados como inspiração de organização
 
-As estrelas são a contagem exibida no GitHub em 14 de novembro de 2026 e podem mudar.
-
-- [CoretechR/ESP32-WiFi-Robot](https://github.com/CoretechR/ESP32-WiFi-Robot) — 165 estrelas na consulta. O repositório separa a interface de controle e os arquivos Eagle, além de incluir README e licença. Usei essa organização como referência para separar firmware, documentação, imagens e esquemas. É outro projeto, com vídeo, e não é a implementação deste carrinho.
-- [0015/ESP32-RC-CAR](https://github.com/0015/ESP32-RC-CAR) — 37 estrelas na consulta. Mantém firmware, imagens, esquemas, README e licença em itens separados. A versão descrita é baseada em BLE; serve como referência de apresentação e organização, não como base de código.
+- [CoretechR/ESP32-WiFi-Robot](https://github.com/CoretechR/ESP32-WiFi-Robot) — O repositório separa a interface de controle e os arquivos Eagle, além de incluir README e licença. Usei essa organização como referência para separar firmware, documentação, imagens e esquemas. É outro projeto, com vídeo, e não é a implementação deste carrinho.
+- [0015/ESP32-RC-CAR](https://github.com/0015/ESP32-RC-CAR) — Mantém firmware, imagens, esquemas, README e licença em itens separados. A versão descrita é baseada em BLE; serve como referência de apresentação e organização, não como base de código.
 
 ## Referências do projeto
 
