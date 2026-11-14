@@ -1,6 +1,5 @@
 # Carrinho de controle remoto com ESP32
 
-**Autor do projeto e do protótipo físico: Vinícius Cavassani**
 
 Este é meu projeto de carrinho de controle remoto, desenvolvido durante o curso técnico de Eletrônica. O firmware publicado reúne duas formas de controle: uma página web acessada pela rede Wi-Fi criada pelo ESP32 e comandos enviados por Bluetooth Classic usando um aplicativo de celular.
 
