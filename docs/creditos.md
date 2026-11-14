@@ -1,24 +1,21 @@
-# Créditos e autoria
+# Autoria e créditos
 
-## Projeto escolar
+## Projeto
 
-Este material vem de um projeto escolar multidisciplinar de Eletrônica. Vinícius Cavassani informou que colaborou na elaboração dos documentos. Os metadados dos arquivos originais registram Celso Carnevale como autor; essa atribuição foi preservada. A documentação desta proposta reescreve as informações em formato Markdown e mantém explícitas as divergências técnicas.
+**Autor do projeto e do protótipo físico: Vinícius Cavassani.**
 
-## Firmware
+Este é o carrinho que desenvolvi como projeto escolar de Eletrônica. A ideia, o protótipo físico e o material escolar do projeto são meus. A lista de materiais e os GPIOs registrados aqui foram organizados a partir dos documentos do próprio carrinho.
 
-O firmware Bluetooth foi preparado a partir do código enviado por Vinícius Cavassani. A origem anterior do trecho de código não foi informada, então esta proposta não declara autoria exclusiva nem inclui uma licença de software. O firmware Wi‑Fi/duplo foi escrito para este projeto com base nas ligações de sinal registradas e nas APIs oficiais; ainda precisa de compilação e teste no hardware real.
+## Firmware publicado
 
-## Referências externas
+O sketch Bluetooth enviado por Vinícius serviu de base para esta versão do firmware. A versão publicada reúne o controle Bluetooth com uma interface web pela rede Wi-Fi do ESP32. Também corrige o erro de sintaxe em LOW e altera os comandos de giro para acionar os motores em sentidos opostos.
 
-- Random Nerd Tutorials: referência de estudo para controle por Wi‑Fi; seu código e seus diagramas não foram copiados.
-- Vídeo “Mini ponte H L298M”, indicado no documento escolar, usado como referência de estudo; não foram copiados frames ou conteúdo do vídeo.
-- Documentação oficial da Espressif e repositórios públicos listados em [`referencias.md`](referencias.md), usados para conferir conceitos e inspirar a organização.
-- Aplicativo Arduino Bluetooth Controller: ferramenta externa vinculada pelo estudante; não é parte do repositório.
+A compilação e o funcionamento no carrinho físico ainda não foram validados nesta publicação. O estado atual está descrito no README e em montagem.md.
 
-## Imagens e diagramas
+## Referências
 
-As imagens de catálogo e o esquema incorporado nos documentos originais não foram incluídos nesta proposta. O repositório reserva espaço para fotos próprias da montagem. Se o esquema original for incluído depois, deve manter o crédito do documento escolar e a autorização aplicável.
+Os tutoriais, páginas oficiais e repositórios públicos consultados estão listados em [referencias.md](referencias.md). Eles foram usados como fontes de consulta e inspiração para a documentação e a organização dos arquivos; não foram copiados códigos, textos, imagens ou diagramas desses projetos.
 
 ## Licença
 
-Nenhum arquivo `LICENSE` foi incluído. A licença deve ser escolhida após confirmar a procedência do firmware Bluetooth e a permissão para redistribuir eventuais materiais escolares ou imagens de terceiros.
+Este repositório ainda não declara uma licença de software. A publicação pública, por si só, não concede uma licença aberta para reutilização do código ou dos documentos. Os materiais de terceiros permanecem sujeitos aos direitos e às licenças dos respectivos autores.
