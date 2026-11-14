@@ -46,7 +46,7 @@ O firmware lê comandos de Bluetooth Serial. O aplicativo precisa enviar exatame
 | IN3 | 5 |
 | IN4 | 4 |
 
-Esses GPIOs aparecem no sketch Bluetooth enviado para o projeto e no esquema escolar. A lista de componentes está em [docs/lista-de-materiais.md](docs/lista-de-materiais.md), e as instruções de montagem estão em [docs/montagem.md](docs/montagem.md).
+Esses GPIOs aparecem no sketch Bluetooth enviado para o projeto e no esquema escolar. A lista de componentes está em [docs/lista-de-materiais.md](docs/lista-de-materiais.md), e as instruções de montagem com o esquema estão em [docs/montagem.md](docs/montagem.md#esquema-original).
 
 ## Preparar e gravar
 
